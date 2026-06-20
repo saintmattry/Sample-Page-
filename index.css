@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #f5f5f5;
+    padding: 40px 20px;
+    line-height: 1.6;
+    color: #222;
+}
+
+.resume {
+    max-width: 800px;
+    margin: 0 auto;
+    background: white;
+    border: 2px solid #000;
+    padding: 50px 60px;
+}
+
+.top-line {
+    border: none;
+    border-top: 2px solid #000;
+    margin-bottom: 30px;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.job-title {
+    color: #28a745; /* green like image */
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.contact p {
+    margin-bottom: 3px;
+    font-size: 15px;
+}
+
+section {
+    margin-top: 30px;
+}
+
+h2 {
+    color: #28a745; /* green headings */
+    font-size: 20px;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+h3 {
+    color: #007bff; /* blue sub-headings */
+    font-size: 17px;
+    margin-top: 15px;
+    margin-bottom: 3px;
+    font-weight: 600;
+}
+
+.date {
+    margin-bottom: 8px;
+    font-size: 15px;
+}
+
+ul {
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+.skills-used {
+    margin-top: 8px;
+    font-size: 15px;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
